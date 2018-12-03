@@ -5045,7 +5045,7 @@ scr_shop_divider_pos
 divider_x
 text_x
 text_y
-G
+ORO
 gold_str
 scr_itemroom
 /8
@@ -11784,7 +11784,7 @@ obj_dogfood_99
 obj_dogfoodbag_57
 * (È una sacca di cibo per cani.^1)&* (È mezza piena.)/%%
 obj_dogfoodbag_59
-* (È una sacca di cibo per cani,&  mezza vuota.)
+* (È una sacca di cibo per cani,&  mezza vuota.)/%%
 obj_dogfoodbag_63
 obj_dogfoodbag_64
 * (Hai appena ricordato&  una cosa divertente.)/%%
@@ -23028,7 +23028,7 @@ obj_readable_room4_145
 * Sei tu...?/%%
 obj_readable_room4_146
 obj_readable_room4_147
-* (Un forno a microonde.^1)&* (Perfetto per andare al&  micromare.)/%%
+* (Un forno a micro-onde.^1)&* (Perfetto per andare al&  micro-mare.)/%%
 obj_readable_room4_159
 obj_readable_room4_161
 * MICROONDE MARCA MTT^1!&* L'ORIGINE DELLA SFIDA MTT!/
@@ -31696,7 +31696,7 @@ SPAGHETTI...
 joyconfig_spaghetted
 CONTROL TEST
 joyconfig_test
-cold outside#but stay warm#inside of you
+fuori il gelo#ma dentro te#un caldo tepore
 joyconfig_fun_winter
 spring time#back to school
 joyconfig_fun_spring
@@ -51064,7 +51064,7 @@ xend
 LV  
 numpos
 LV
-HP
+PS
 name0_x
 name0_y
 name0_scale
