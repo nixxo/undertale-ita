@@ -5045,7 +5045,7 @@ scr_shop_divider_pos
 divider_x
 text_x
 text_y
-ORO
+G
 gold_str
 scr_itemroom
 /8
@@ -5444,7 +5444,7 @@ clairvoire
 Ali Khan
 Ashleigh Ellis
 Paul Tayloe
-[NAME REDACTED]
+[NOME CENSURATO]
 fuzzytipsy
 Jesse Knowles
 Jeremy Vigil
@@ -6539,11 +6539,11 @@ item_nameb_33
 item_nameb_34
 AstroCibo
 item_nameb_35
-InstaNood
+NoodIstan
 item_nameb_36
 MelaGranc
 item_nameb_37
-Hot Dog
+Canino
 item_nameb_38
 item_nameb_39
 GlamBurg
@@ -6940,7 +6940,7 @@ SCR_TEXT_62
    * Ho di meglio da fare.
    * Scampata...
    * Vado di fretta.
-   * Scappato con \[1] PE&     e \[2] ORO.
+   * Scappato con \[1] PE&     e \[2] G.
 * (L'ombra delle rovine&  ti sovrasta^1, riempiendoti&  di determinazione.)/
 * (PS ripristinati.)/%%
 * (Fare scricchiolare le foglie&  per gioco ti riempie di&  determinazione.)/
@@ -7879,8 +7879,8 @@ Farò del mio meglio&per proteggerti&finché sarai qui./%%
 * tieni^1, ti posso dare&  delle bagatt./%%
 * un altro nino^1, in&  arrivo.../
 * ... vai proprio matto&  per il pane^1, non&  è così?/
-* quanto ne avrai mangiato&  durante tutta la tua vita?&* tranquillo^1, non ti giudico mica./
-* non avrei un lavoro se&  non ci fosse gente come te./%%
+* tranquillo^1, non&  ti giudico mica./
+* non avrei un lavoro&  se non ci fosse&  gente come te./%%
 * figo^1.&* tieni il tuo panininetto./
 * panininetto./
 * vezzeggiativo di paninino&  panininetto./
@@ -7889,9 +7889,9 @@ Farò del mio meglio&per proteggerti&finché sarai qui./%%
 * fai attenzione^1.&* se mangi troppi&  panini.../
 * diventerai &  grande quanto me./
 * grande nel senso di&  fantastico^1, intendo./
-* praticamente sono diventato&  un luna paninark./%%
-* uoops^1, non hai abbastanza&  grana./
-* dovresti trovarti un lavoro^1.&* dicono che fare la&  sentinella paghi bene./%%
+* praticamente adesso sono&  il boss dei panini./%%
+* uoops^1, non hai&  abbastanza grana./
+* trovati un lavoro^1.&* dicono che fare la&  sentinella paghi bene./%%
 * hai  troppa roba^1.&* ... mi sa che te lo& dovrò  mettere in testa./%%
 * eh già^1, devi risparmiare&  soldi per l'università e&  per i ragni./%%
 * S-sembra tu l'abbia&  sconfitto!/
@@ -7910,7 +7910,7 @@ Farò del mio meglio&per proteggerti&finché sarai qui./%%
 \E9* S-senza che finissi&  con il deludere tutti./
 \E3* M-ma...!/
 \E4* Guidarti mi ha fatto&  sentire.../
-\E9* Molto meglio su di me./
+\E9* Molto meglio con&  me stessa./
 \E0* Quindi... grazie per&  permettermi di&  aiutarti./
 \E4* Uhhh^1, comunque^1, siamo&  quasi al NUCLEO./
 \E0* È appena dopo &  l'MTT Resort./
@@ -8099,7 +8099,7 @@ FAI CON COMODO!/%%
 * Accetti la richiesta?& &         Accetta     Rifiuta\C
 * (Sembra che si sia già&  rifiutata da sola...)/%%
 * ehi^1.&* ho sentito che te ne&  vai al nucleo./
-\E0* ti va di farmi accom-&  pagnarmi a cena prima?&  Vabbè       Ora no \C
+\E0* ti va di farmi com-&  pagnia a cena prima?&  Vabbè       Ora no \C
 * grande^1, grazie per&  farmi compagnia./%%
 * beh^1, divertiti allora./%%
 * Questa è la barriera./
@@ -8462,15 +8462,15 @@ POSSO FARLO IO&PER TE!!!/
  & &         Mettere     Non mettere\C
 * (...)/
 * (Non avevi nulla di&  interessante.)/%%
-* (Metti un Hot Dog davanti&  alla porta.)/
+* (Metti un Canino davanti&  alla porta.)/
 * (Una zampa bianca schizza &  fuori da sotto la porta.)/
-* (Cerca di tirare l'Hot Dog&  in camera sua...)/
+* (Cerca di tirare l'Canino&  in camera sua...)/
 * (Ma continua a schiacciare&  troppo forte^1, e l'hot dog&  continua a rotolare via.)/
 * (Finalmente^1, ce la fa.)/
 * (Senti uno stridio di rocce&  che si sfregano.)/
 * (Una singola polpettina &  scivola fuori&  da sotto la porta.)/
 * (Hai ottenuto&  il Cucciolo di Polpetta.)/%%
-* (Metti un Hot Cat davanti&  alla porta.)/
+* (Metti un Canino davanti&  alla porta.)/
 * (Senti ringhiare...)/%%
 * (Metti l'Insalata Canina&  davanti alla porta.^1)&* (Scivola al di sotto.)/
 * (L'Insalata Canina è stata&  assorbita dall'oscurità.)/%%
@@ -8728,7 +8728,7 @@ blt_sizebone_142
  SPERO TI SIA& PIACIUTA QUESTA& LEZIONE./
 blt_sizebone_143
 blt_sizebone_144
-Hai&chiamato&aiuto&...
+Hai&chia-&mato&aiuto&...
 obj_6book_master_384
 obj_6book_master_385
 Hai chiamato aiuto...
@@ -9771,7 +9771,7 @@ obj_amalgam_fridge_99
 obj_amalgam_fridge_103
 * (Hai trovato una chiave blu &  per terra.^1)&* (La attacchi al portachiavi.)/%%
 obj_amalgam_fridge_107
-* Club di Carte: incontro qui!&* Prossimo incontro:&* 10 Ottobre, 8PM/%%
+* Club di Carte: incontro qui!&* Prossimo incontro:&* 10 Ottobre, ore 20/%%
 obj_artclass_sign_208
 * (Il club di arte &  è cancellato!)/%%
 obj_artclass_sign_213
@@ -10701,7 +10701,7 @@ obj_battlebomb_536
 obj_battlebomb_541
 * Cane disinnescato!
 obj_battlebomb_542
-* HAI VINTO!&* Hai ottenuto \[1] PE e \[2] oro.
+* HAI VINTO!&* Hai ottenuto \[1] PE e \[2] G.
 obj_battlecontroller_286
 &* LV aumentato.
 obj_battlecontroller_287
@@ -12329,7 +12329,7 @@ SO che intenzioni&hai./
 obj_endflowey_392
 Vuoi soltanto vedere&come sia tutto questo./
 obj_endflowey_393
-Prima che noi glielo STRAPPIAMO&VIA./
+Prima che noi glielo&STRAPPIAMO VIA./
 obj_endflowey_394
 Ahahaha.../
 obj_endflowey_395
@@ -12877,7 +12877,7 @@ obj_flowey_master_1218
 obj_flowey_master_1260
 obj_flowey_master_1261
 obj_flowey_master_1276
-\E0* Ma non è venuto nessuno./
+\E0* Ma non è venuto&  nessuno./
 obj_flowey_master_1277
 \E2* Oh, Ragazzi^1!&* Che peccato!/
 obj_flowey_master_1278
@@ -12890,7 +12890,7 @@ obj_flowey_master_1281
 obj_flowey_master_1320
 \E1* Come hai...^4? %
 obj_flowey_master_1321
-\E2* Beh^1, mi bas^4terà%%
+\E2* Beh^1, mi basterà^4%%
 obj_flowey_master_1322
 obj_flowey_master_1323
 \E4* Co..^4. %
@@ -15084,7 +15084,7 @@ obj_lastsans_trigger_207
 obj_lastsans_trigger_208
 * Quindi ce l'hai&  finalmente fatta.../%%
 obj_lastsans_trigger_214
-*Ora^1, vedi./
+* Ora^1, vedi./
 obj_lastsans_trigger_243
 * È il momento del&  giudizio finale./
 obj_lastsans_trigger_244
@@ -16007,7 +16007,7 @@ obj_mainend_267
 obj_mainend_268
 \E2* non ti arrendere&  neanche tu, ovunque&  tu sia^1, ok?/
 obj_mainend_269
-\E3* chissà quanto& ci vorrà.../
+\E3* chissà quanto&  ci vorrà.../
 obj_mainend_270
 \E0* ma ce ne andremo&  da qui./
 obj_mainend_271
@@ -16039,7 +16039,7 @@ obj_mainend_297
 obj_mainend_298
 \E0QUINDI È SOLO&UN PO' LEGGERMENTE&DIVERSO./
 obj_mainend_299
-\E0E^1 AIUTIAMO LA&DOTT.SSA ALPHYS CON&LE SUE RICERCHE!/
+\E0E^1 AIUTIAMO LA&DOT.SSA ALPHYS CON&LE SUE RICERCHE!/
 obj_mainend_300
 \E0TROVERÀ UN MODO&PER FARCI USCIRE&DA QUI./
 obj_mainend_301
@@ -16051,7 +16051,7 @@ obj_mainend_303
 obj_mainend_304
 \E3ESPLOSIVO./
 obj_mainend_305
-\E0MA CREDO CHE A&ALPHYS PIACCIA &AVERLA ACCANTO./
+\E0MA CREDO CHE AD&ALPHYS PIACCIA &AVERLA ACCANTO./
 obj_mainend_306
 \E5UH OH!!!/%%
 obj_mainend_307
@@ -16085,7 +16085,7 @@ obj_mainend_323
 obj_mainend_324
 E ANCHE LA&CASA.../
 obj_mainend_325
-\\E2È STATO TRISTE..^1.&MA CI STIAMO PREN-&DENDO CURA DI LEI!/
+\E2È STATO TRISTE..^1.&MA CI STIAMO PREN-&DENDO CURA DI LEI!/
 obj_mainend_326
 \E0ORA DORME SUL&NOSTRO DIVANO./
 obj_mainend_327
@@ -16187,7 +16187,7 @@ obj_mainend_386
 obj_mainend_387
 \E3PARLA MOLTO&CON ME../
 obj_mainend_388
-\E5SU COME&VENDICARSI&CON TE./
+\E5SU COME&VENDICARSI&DI TE./
 obj_mainend_389
 HA UN&PIANO&RIDICOLO.../
 obj_mainend_390
@@ -16201,13 +16201,13 @@ PERCHÉ VOGLIO&ANDARE CON&LEI!/
 obj_mainend_394
 COSÌ TI POTREI&RIVEDEREI!/
 obj_mainend_395
-\\E3 ANCHE SE DOVESSIMO&COMBATTERE DI NUOVO./
+\E3ANCHE SE DOVESSIMO&COMBATTERE DI NUOVO/
 obj_mainend_396
 \E0OH BEH^1, INCROCIAMO&LE DITA!/
 obj_mainend_397
 E TENIAMOCI&IN CONTATTO.../
 obj_mainend_398
-COSÌ SARÀ PIÙ &FACILE METTERE IN &ATTO IL NOSTRO PIANO./
+COSÌ SARÀ FACILE&METTERE IN ATTO&IL NOSTRO PIANO./
 obj_mainend_399
 CIAO!/%%
 obj_mainend_400
@@ -16285,7 +16285,7 @@ obj_mainend_467
 obj_mainend_469
 \E1* Andiamo^1, Undyne^1!&* Riprenditi!/
 obj_mainend_470
-\E4* Uhm^1, Mi sa che&  ti dirò come se&  la passa Alphys./
+\E4* Uhm^1, mi sa che&  ti dirò come se&  la passa Alphys./
 obj_mainend_471
 \E0* Beh^1, è quella&  di sempre./
 obj_mainend_472
@@ -16795,7 +16795,7 @@ SPERO SI STIANO&DIVERTENDO!!!/
 obj_mainend_1000
 \E3OH SÌ./
 obj_mainend_1001
-\E0SONO IL SOVRANO DEL&SOTTOSUOLO ORA!!!/
+\E0SONO IL SOVRANO&DEL SOTTOSUOLO&ORA!!!/
 obj_mainend_1002
 LE COSE STANNO&MIGLIORANDO MOLTO&QUI./
 obj_mainend_1003
@@ -16827,9 +16827,9 @@ obj_mainend_1015
 obj_mainend_1017
 \E0ESATTO^1!&SI FARÀ CASO PER&CASO!/
 obj_mainend_1019
-SE SONO CATTIVI..^1.&GLI DAREMO DEI &PUZZLE DA RISOLVERE!/
+SE SONO CATTIVI..^1.&GLI DAREMO DEI &PUZZLE DA RISOLVERE/
 obj_mainend_1020
-SE SONO BUONI..^1.&GLI DAREMO COMUNQUE&DEI PUZZLE DA RISOLVERE!/
+SE SONO BUONI, GLI&DAREMO COMUNQUE&PUZZLE DA RISOLVERE!/
 obj_mainend_1021
 DOVREBBE ESSERE&LA VIA MIGLIORE!/
 obj_mainend_1022
@@ -16843,7 +16843,7 @@ NON DIRLO A MIO&FRATELLO, MA.../
 obj_mainend_1027
 NONOSTANTE I&MIGLIORAMENTI CHE&ABBIAMO FATTO.../
 obj_mainend_1028
-A VOLTE QUESTO&LAVORO È &ABBASTANZA DIFFICILE./
+A VOLTE QUESTO&LAVORO È &PIUTTOSTO DIFFICILE./
 obj_mainend_1029
 DA QUANDO IL RE&SE NE È ANDATO.../
 obj_mainend_1030
@@ -16853,11 +16853,11 @@ A VOLTE, NEANCHE&I MIEI MIGLIORI&INCORAGGIAMENTI.../
 obj_mainend_1032
 BASTANO./
 obj_mainend_1033
-E^1, E^1, MI MANCA TANTO&UNDYNE^1, ANCHE./
+E^1, MI MANCA TANTO&UNDYNE^1, ANCHE./
 obj_mainend_1034
-NON RISPONDE MAI&ALLE MIE CHIAMATE.../
+NON RISPONDE MAI&ALLE MIE CHIAMATE&.../
 obj_mainend_1035
-\E5SI STARÀ DIVERTENDO&UN MONDO IN VACANZA./
+\E5SI STARÀ DIVERTENDO&UN MONDO IN&VACANZA./
 obj_mainend_1036
 \E6SPERO SOLO MI&MANDI UNA&CARTOLINA./
 obj_mainend_1037
@@ -16972,7 +16972,7 @@ obj_mainend_1145
 obj_mainend_1147
 * Sono rimasta seduta^1.&* A guardarti./
 obj_mainend_1148
-\E1* Mi sentivo in colpa a sa-&  pere che non avevo fat-&  to nulla per fermarti./
+\E1* Mi sentivo in colpa sa-&  pendo che non avevo fat-&  to nulla per fermarti./
 obj_mainend_1149
 \E3* Mi sentivo come se.../
 obj_mainend_1150
@@ -17209,7 +17209,7 @@ obj_mettatonb_quiz_524
 obj_mettatonb_second_256
 HA!&QUEL PULSANTE NON TI&PUÒ SALVARE, TESORO!/%%
 obj_mettatonb_second_265
-NON OSERESTI USARE&IL COMANDO [AZIONE]&E PREMERE QUEL&PULSANTE!/%%
+NON OSERESTI USARE&IL COMANDO [AGISCI]&E PREMERE QUEL&PULSANTE!/%%
 obj_mettatonb_second_268
 PROPRIO COSÌ!&NON PREMERLO!&TI DISTRUGGER!/%%
 obj_mettatonb_second_271
@@ -17242,9 +17242,9 @@ C-c'è un'altra cosa&che ho installato&sul telefono...!/
 obj_mettatonb_second_653
 \WVedi quel\Y &pulsante giallo\W...?/
 obj_mettatonb_second_654
-Vai sul menù&[[AGISCI]] &e premilo!!!/%%
+Vai sul menù&[AGISCI] &e premilo!!!/%%
 obj_mettatonb_second_655
-* Il menù [[AZIONE]] del&  telefono brilla.
+* Il menù [AGISCI] del&  telefono brilla.
 obj_mettatonb_second_662
 Ora premi \*Z!!!
 obj_mettatonb_second_703
@@ -17760,7 +17760,7 @@ obj_mettnewsevent_159
 obj_mettnewsevent_174
 * BUONASERA^1, BELLEZZE E&  GENTILBELLEZZE!/
 obj_mettnewsevent_175
-* QUI METTATON^1, IN DIRETTA&  SU TG MTT!/
+* QUI METTATON^1, IN DIRETTA&  SU MTT NEWS!/
 obj_mettnewsevent_176
 \M2* UN PECULIARE EVENTO STA&  ACCANDENDO A ROVENTERRA EST!/
 obj_mettnewsevent_177
@@ -17983,7 +17983,7 @@ obj_mettnewsevent_995
 * Esatto^1!&* È proprio ciò che&  ho fatto!/
 obj_mettnewsevent_997
 obj_mettnewsevent_998
-\M9* MALEDIZIONE^1!&* SEMBRA CHE IO STIA STATO&  BATTUTO DI NUOVO!/
+\M9* MALEDIZIONE^1!&* SEMBRA CHE IO SIA STATO&  BATTUTO DI NUOVO!/
 obj_mettnewsevent_999
 * DANNAZIONE A TE^1, UMANO^1!&* DANNAZIONE A TE^1,DOTT.SSA.ALPHYS&  PER IL TUO GRANDE AIUTO!/
 obj_mettnewsevent_1000
@@ -18035,7 +18035,7 @@ obj_mettnewsevent_1042
 obj_mettnewsevent_1043
 \E0* Siamo a metà percorso&  per il NUCLEO!/
 obj_mettnewsevent_1044
-* Let's go!/
+* Proseguiamo!/
 obj_mettnewsevent_1045
 obj_mettnewsevent_1046
 obj_mettnewsevent_1047
@@ -18657,7 +18657,7 @@ obj_multitileevent_467
 obj_multitileevent_468
 \E0* Non finché&  lavoreremo insieme!/
 obj_multitileevent_469
-\E6* Il tuo puzzle è&  finito.. Vai a casa&  e lasciaci soli!/
+\E6* Il tuo puzzle è&  finito. Vai a casa&  e lasciaci soli!/
 obj_multitileevent_470
 \TS \F0 \TM %
 obj_multitileevent_471
@@ -25085,7 +25085,7 @@ obj_shop3_2184
 obj_shop3_2196
 * Firmato^1,&  Catty <3/*
 obj_shop3_2198
-\E0* Il cliente ha sempre ragione./*
+\E0* Il cliente ha&  sempre ragione./*
 obj_shop4_244
 \E0* Benvenuto all'Emporio &  dei Burger MTT^1, casa &  del Glamburger^1.&* Fai brillare la&  tua giornata (TM)./*
 obj_shop4_245
@@ -26458,7 +26458,7 @@ Ti RISPARMIO&adesso~/%%
 obj_spiderb_851
 * Muffet ti sta risparmiando.
 obj_spiderb_859
-* Benvenuto al nostro salotto^1,&  caro.^1~ Ti interessano dei&  dolcetti di ragno?/
+* Benvenuto al nostro salotto^1,&  caro.^1~  Ti interessano dei&  dolcetti di ragno?/
 obj_spidergirl_shop_74
 * Tutto il ricavato andrà a dei&  veri ragni~/%%
 obj_spidergirl_shop_75
@@ -28183,11 +28183,11 @@ obj_treadmill_event_107
 obj_treadmill_event_108
 \E1QUANTO PUÒ&ESSERE IMMATURO?/
 obj_treadmill_event_109
-\E3COMUNQUE^1, HAI VISTO&PER CASO LE MIE ACTION&FIGURES?/
+\E3COMUNQUE^1, HAI VISTO&PER CASO LE MIE&ACTION FIGURES?/
 obj_treadmill_event_110
 \E0ASPETTA^1!&SO DOVE CERCARE!!!/
 obj_treadmill_event_111
-NELLA MIA COLEZIONE^1!&NYEH HEH HEH!!!/
+NELLA MIA COLLE-&ZIONE^1!&NYEH HEH HEH!!!/
 obj_treadmill_event_112
 A VOLTE^1, SONO&UN GENIO^1.&TUTTE LE VOLTE./%%
 obj_treadmill_event_113
@@ -31455,7 +31455,7 @@ ARMA: \[1]
 stat_menu_weapon
 EQUIP: \[1]
 stat_menu_armor
-ORO: \[G]
+G: \[G]
 stat_menu_gold
 UCCISI: \[1]
 stat_menu_kills
@@ -31477,7 +31477,7 @@ Salvataggio completato.
 save_menu_saved
 [PREMI Z O INVIO]
 title_press_button_pc
-[PRESS ANY BUTTON]
+[PREMI UN BOTTONE]
 title_press_button_console
  --- istruzioni ---
 [Z o INVIO]
@@ -31520,7 +31520,7 @@ flowey_load_time
 Il Mio Mondo
 flowey_load_room
 flowey_load_continue
-Restart
+Ricomincia
 flowey_load_restart
 --
 Rovine - Entrata
@@ -31631,7 +31631,7 @@ ITALIANO
 settings_language_en
 GIAPPONESE
 settings_language_ja
-BUTTON CONFIG
+CONF. BOTTONI 
 settings_button
 CONFERMA
 settings_button_confirm
@@ -31641,9 +31641,9 @@ MENU
 settings_button_menu
  :: 
 settings_button_separator
-BORDER
+BORDO
 settings_border
-NONE
+NULLA
 settings_border_none
 Simple
 settings_border_1
@@ -31665,16 +31665,16 @@ True Lab
 settings_border_9
 Beauty
 settings_border_10
-Joystick Config
+Conf. Joystick
 settings_joyconfig
-JOYSTICK CONFIG
+CONF. JOYSTICK
 joyconfig_title
 ESCI
 joyconfig_exit
 joyconfig_button_confirm
 joyconfig_button_cancel
 joyconfig_button_menu
-(PUSH BUTTON)
+(PRIMI BOTTONE)
 joyconfig_prompt_button
 ANALOG SENSITIVITY:
 joyconfig_analog_sens
@@ -31682,9 +31682,9 @@ ANALOG SENSITIVITY SENSITIVITY:
 joyconfig_analog_sens_sq
 DIR CHOICE:
 joyconfig_dir_choice
-NORMAL
+NORMALE
 joyconfig_dir_normal
-ANALOG ONLY
+SOLO ANALOGICO
 joyconfig_dir_analog
 POV ONLY
 joyconfig_dir_pov
@@ -32126,7 +32126,7 @@ Jenna Post
 credits_short_test_10
 Christopher Warriner
 credits_short_test_11
-Special Thanks
+Ringraziamenti Speciali
 credits_short_thanks_0
 Reid Young
 credits_short_thanks_1
@@ -32208,7 +32208,7 @@ mettnews_ticker_doom5
 mettnews_ticker_doom6
  NON RIMANERE FERMO!
 mettnews_ticker_doom7
-TIME:\[1]
+TEMPO:\[1]
 mettnews_timer
 ASCOLTI \[1]
 mett_ratings
@@ -32276,9 +32276,9 @@ Su di te
 shop2_talk1_title
 Quell'emblema
 shop2_talk2a_title
-Significato emblema (NUOVO)
+Significato emblema (N)
 shop2_talk2b_title
-La profezia (NUOVO)
+La profezia (N)
 shop2_talk2c_title
 La profezia
 shop2_talk2d_title
@@ -32313,33 +32313,33 @@ ESAURITO!
 shop3_itemdesc_soldout
 Su voi due
 shop3_talk1a_title
-Burgerpants (NUOVO)
+Burgerpants (N)
 shop3_talk1b_title
-Altro Burgerpants (NUOVO)
+Altro Burgerpants (N)
 shop3_talk1c_title
-Uscita B.Pants? (NUOVO)
+Uscita B.Pants? (N)
 shop3_talk1d_title
-Quel tipo di persona (NUOVO)
+Quel tipo di persona (N)
 shop3_talk1e_title
 Sulla vostra merce
 shop3_talk2a_title
-Origine merce (NUOVO)
+Origine merce (N)
 shop3_talk2b_title
-Origine robaccia (NUOVO)
+Origine robaccia (N)
 shop3_talk2c_title
 Origine robaccia
 shop3_talk2d_title
 Su Mettaton
 shop3_talk3a_title
-Origine Mettaton (NUOVO)
+Origine Mettaton (N)
 shop3_talk3b_title
 Su Mettaton (VECCHIO???)
 shop3_talk3c_title
 Su Alphys
 shop3_talk4a_title
-Scienziata Reale (NUOVO)
+Scienziata Reale (N)
 shop3_talk4b_title
-Su ASGORE (NUOVO)
+Su ASGORE (N)
 shop3_talk4c_title
 Su ASGORE
 shop3_talk4d_title
@@ -32366,26 +32366,26 @@ Consigli di vita
 shop4_talk1_title
 Consigli d'amore
 shop4_talk2a_title
-Storia del Glamburger (NEW)
+Storia del Glamburger (N)
 shop4_talk2b_title
 Storia del Glamburger
 shop4_talk2c_title
 Chiarifica Storia
 shop4_talk2d_title
-Bratty e Catty (NEW)
+Bratty e Catty (N)
 shop4_talk2e_title
 Bratty & Catty
 shop4_talk2f_title
 Confessione
 shop4_talk2g_title
-L'invito di Catty (NEW)
+L'invito di Catty (N)
 shop4_talk2h_title
 L'invito di Catty
 shop4_talk2i_title
 shop4_talk3a_title
-Mettaton è malvagio (NEW)
+Mettaton è malvagio (N)
 shop4_talk3b_title
-MTT è davvero malvagio (NEW)
+MTT è davvero malvagio (N)
 shop4_talk3c_title
 MTT è davvero malvagio
 shop4_talk3d_title
@@ -32403,17 +32403,17 @@ Da solo
 shop4_talk11_title
 Minaccia
 shop4_talk12_title
-tem flake
+cereali tem
 shop5_itemname_22a
-tem flake (ON SALE,)
+cereali tem (IN SCONTO,)
 shop5_itemname_22b
-tem flake (expensiv)
+cereali tem (costos)
 shop5_itemname_22c
-tem flake (premiem)
+cereali tem (lusuoso)
 shop5_itemname_22d
-tem pay 4 colleg
+paga univresit a tem
 shop5_itemname_college
-temy ARMOR!!!
+ARMATURA temi!!!
 shop5_itemname_64
 Cura 2PS#cibo de#tem
 shop5_itemdesc_22a
@@ -47578,7 +47578,7 @@ mlevel
 menusong
 sans_y
 pap_x
-1.08
+1.08 ita
 version
 -4
 -V
