@@ -1,0 +1,13 @@
+lavora da fare manualmente su alcune sprite di cui modificare i valori:
+
+TEXTURE 17
+SPRITE "HOPE" > "SPERANZA"
+s: 528,434 54,10
+t: 0,0 54,10
+b: 54,10
+
+TEXTURE 24
+SPRITE "MY" > "MIE"
+s: 280,1550 24,11
+t: 2,2 24,11
+b: 28,15
