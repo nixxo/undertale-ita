@@ -17,7 +17,7 @@ fclose($f);
 $in['i'] = explode("\x0D\x0A", $fc);
 echo count($in['i']) . " > " . count(array_unique($in['i'])) . PHP_EOL;
 
-//original string - version for reference
+//original string - old version for reference
 $fn = "string08.txt";
 $f = fopen($fn, "r") or die("Unable to open file!");
 $fc = fread($f, filesize($fn));
@@ -26,7 +26,7 @@ $in['e'] = explode("\x0D\x0A", $fc);
 echo count($in['e']) . " > " . count(array_unique($in['e'])) . PHP_EOL;
 $in['e'] = array_flip($in['e']);
 
-//original string - target version
+//original string - new version as target
 $fn = "string10.txt";
 $f = fopen($fn, "r") or die("Unable to open file!");
 $fc = fread($f, filesize($fn));
